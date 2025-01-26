@@ -1,4 +1,4 @@
-# Azure AzureShadowsocks 搭建外网访问服务
+# Azure Shadowsocks 搭建外网访问服务
 
 ## 1. 什么是Azure Shadowsocks？
 Azure Shadowsocks是一种基于Shadowsocks协议的代理服务，它在微软的Azure云平台上运行。Shadowsocks被广泛用于翻越网络限制和保护用户的网络隐私。通过在Azure上搭建Shadowsocks服务器，用户可以享受到更高的网络速度和更好的稳定性。
